@@ -1,5 +1,6 @@
 .DS_Store
 *.docx
-lab_answer/
-.project
 *.pptx
+lab_answer_pptx/
+.project
+/.metadata/
