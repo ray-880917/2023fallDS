@@ -53,13 +53,13 @@ In your computer's folder, use the command below :
 
 `git remote add origin https://github.com/ray-880917/2023fallDS`
 
-`git pull origin master`
+`git pull origin main`
 
 ### Next time
 
 `cd (your folder path)`
 
-`git pull origin master`
+`git pull origin main`
 
 then you can refresh the data weekly to download HW from GitHub.
 
@@ -73,6 +73,6 @@ You can try
 
 `git commit -m "write some message"`
 
-`git merge master`
+`git merge main`
 
 then pull again.
