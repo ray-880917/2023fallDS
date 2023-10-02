@@ -45,6 +45,15 @@ public class WordCounter {
     	
         return -1;
     }
+
+    public int min(int a, int b){
+        if (a < b)
+            return a;
+        else if (b < a)
+            return b;
+        else 
+            return a;
+    }
     
     public int countKeyword(String keyword) throws IOException{
 		if (content == null){
