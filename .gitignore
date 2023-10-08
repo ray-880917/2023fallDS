@@ -4,3 +4,5 @@
 HW_answer/
 .project
 /.metadata/
+*.xml
+*.xlsx
