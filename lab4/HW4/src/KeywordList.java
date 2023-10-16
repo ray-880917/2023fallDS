@@ -24,7 +24,7 @@ public class KeywordList
 				// If their count are same, smaller weight placed in the front
 			}
 		}
-		lst.add(keyword);
+		//lst.add(keyword);  You may not use this. =(
 	}
 
 	public void outputIndex(int i)
