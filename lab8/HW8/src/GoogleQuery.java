@@ -36,7 +36,6 @@ public class GoogleQuery
 		{
 			System.out.println(e.getMessage());
 		}
-		System.out.println(url);
 	}
 	
 	private String fetchContent() throws IOException
