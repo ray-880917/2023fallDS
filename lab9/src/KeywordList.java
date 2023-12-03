@@ -14,7 +14,6 @@ public class KeywordList
 		lst.add(keyword);
 	}
 
-	
 	public void sort()
 	{
 		if (lst.size() == 0)
@@ -29,9 +28,11 @@ public class KeywordList
 
 	// YOUR TURN
 	// 1. Implement QuickSort algorithm
+	// We assume that you are using an in-place approach, hence the return type is
+	// void. If you prefer to use a different approach, you can modify this return
+	// type (e.g., change it to return ArrayList<Integer>)
 	private void quickSort(int leftbound, int rightbound)
 	{
-		
 
 	}
 
