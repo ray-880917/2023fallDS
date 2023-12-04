@@ -30,7 +30,7 @@ public class KeywordList
 	// 1. Implement QuickSort algorithm
 	// We assume that you are using an in-place approach, hence the return type is
 	// void. If you prefer to use a different approach, you can modify this return
-	// type (e.g., change it to return ArrayList<Integer>)
+	// type (e.g., change it to return ArrayList<Keyword>)
 	private void quickSort(int leftbound, int rightbound)
 	{
 
